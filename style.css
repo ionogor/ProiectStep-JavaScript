@@ -1,0 +1,37 @@
+.btn-order{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    background-color: #ade8f4;
+    justify-content: space-around;
+}
+.selectPrice,.orderBrand {
+    width: 100px;
+    height: 50px;
+}
+.input{
+    margin-top: 10px;
+    width: 100px;
+
+}
+
+.data-main{
+    display: flex;
+    flex-wrap: wrap;
+    margin:auto;
+    width: 80%;
+    gap: 10px 20px; /* row-gap column gap */
+
+}
+.card{
+    width: 300px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+h3,h5{
+    text-align: center;
+
+}
+
